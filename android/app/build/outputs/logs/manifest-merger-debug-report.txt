@@ -1,0 +1,362 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from [:react-native-maps] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:@react-native-community_masked-view] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-cardview] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-cardview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-reanimated] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/63634deb96d62c1bd1f948702e433bb4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/0e36b137451cb6aae317b612957afd6c/AndroidManifest.xml:16:1-21:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/1cbea1047c936865ecdee2e8548d8f59/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/835c4b22bdd169bf76ad4de4046d87b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7b542111d73909554cba2447bb9f3424/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/bdc337a8a562188382e5c4d9d8d2cf81/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/aabd267222022777748cac92087258e3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7c3a0f361d60838239cb223bef5403b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2a270e31fbe77a2481fa2b5c6316b3bf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/1a23659144706a10d0084b906c34a01f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/36f66acc659c2cd8cef3c65918eb46de/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/5ace00848434db0dcd7b8427e72223e4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/a908830ebbd016ddbb5135132af9e9ec/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/71c49549c3043b124dd7927c8c50ff6c/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7cc86922d1a2715ebfc777f3b086c730/AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/82b704889c86ba1219e8e9657026ae4b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7f6d5a30b8bb7dbff5c650ff54ebdee3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/73a024878d0ab28a4af7a5e1a8e7b285/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/881d7f2982ee967dac5c087e9b1d7d05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/671958cddca47c244c5f32af84b3eaa3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/8e98f724dc51337d43edf1c5c471a1d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/946a61e6a8308adfe824791b682f0027/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/9172c8a16a31de1415c6e9f491a3a3b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b04fc18c8990849eab39edce72e318f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/cc817a45aad8bff40fd03440841c9423/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/ef5e189cb9a0146cedd7bd12dfb91021/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2f14d18e98ab88bc7f79cd46a187400a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7baff13cb5666ab15444076f0d92cf05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/fa089fd709efcccbaa22a6015570bb08/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2bf26a42736f3465743f6ed3147b977f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/039811fe32c436726efb221ee6c1f12a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/1299dea07690d004e89391147cde5437/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/8ca45c013475edbd0a0969974c4db5bc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d8d024979b34863aa37e3ee20ab0b018/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d7c5087299dae5c47ab069bcfe67e86d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/05fb4e47000933059d1a00297a4a4367/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/20fa1407ab621da230d4f55f65497e92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/ffa34149dcf03faec6734b5b70bc44ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/aa6cdacb18813be63d2945b0460b3a8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/db4f45da05953ea270447d7c4baa65dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/3cc62e4deeaa5602d495bc5856123fb7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2ed3abd8c40fc31ab24e366b849f7420/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d979c5b03c107543a82ee06025f30592/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/4709256cbea5c5703006616fae0b31f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/991ff10b4475ba8039dfcb722d58c3a8/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [:react-native-maps] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:9:22-95
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:12:5-33:19
+MERGED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:12:5-33:19
+MERGED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:12:5-33:19
+MERGED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/63634deb96d62c1bd1f948702e433bb4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/63634deb96d62c1bd1f948702e433bb4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/0e36b137451cb6aae317b612957afd6c/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/0e36b137451cb6aae317b612957afd6c/AndroidManifest.xml:18:5-20:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/5ace00848434db0dcd7b8427e72223e4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/5ace00848434db0dcd7b8427e72223e4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/a908830ebbd016ddbb5135132af9e9ec/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/a908830ebbd016ddbb5135132af9e9ec/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/71c49549c3043b124dd7927c8c50ff6c/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/71c49549c3043b124dd7927c8c50ff6c/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7cc86922d1a2715ebfc777f3b086c730/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7cc86922d1a2715ebfc777f3b086c730/AndroidManifest.xml:19:5-21:19
+MERGED from [androidx.core:core:1.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/8ca45c013475edbd0a0969974c4db5bc/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/8ca45c013475edbd0a0969974c4db5bc/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d8d024979b34863aa37e3ee20ab0b018/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d8d024979b34863aa37e3ee20ab0b018/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/8ca45c013475edbd0a0969974c4db5bc/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:14:7-39
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:14:7-39
+	tools:ignore
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:16:7-52
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:16:7-52
+	tools:targetApi
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:15:7-41
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:17:7-34
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:17:7-34
+	android:theme
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:18:7-38
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:13:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:19:9-21:70
+	android:value
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:21:13-68
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:20:13-58
+activity#com.realestate.MainActivity
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:22:7-31:18
+	android:label
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:24:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:26:9-51
+	android:configChanges
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:25:9-79
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:23:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:27:9-30:25
+action#android.intent.action.MAIN
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:28:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:29:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:32:7-84
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml:32:17-81
+uses-sdk
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-maps] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-cardview] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-cardview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-cardview] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-cardview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/63634deb96d62c1bd1f948702e433bb4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/63634deb96d62c1bd1f948702e433bb4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/0e36b137451cb6aae317b612957afd6c/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/0e36b137451cb6aae317b612957afd6c/AndroidManifest.xml:17:5-42
+MERGED from [org.webkit:android-jsc:r245459] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/1cbea1047c936865ecdee2e8548d8f59/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/1cbea1047c936865ecdee2e8548d8f59/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/835c4b22bdd169bf76ad4de4046d87b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/835c4b22bdd169bf76ad4de4046d87b4/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7b542111d73909554cba2447bb9f3424/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7b542111d73909554cba2447bb9f3424/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/bdc337a8a562188382e5c4d9d8d2cf81/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/bdc337a8a562188382e5c4d9d8d2cf81/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/aabd267222022777748cac92087258e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/aabd267222022777748cac92087258e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7c3a0f361d60838239cb223bef5403b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7c3a0f361d60838239cb223bef5403b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2a270e31fbe77a2481fa2b5c6316b3bf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2a270e31fbe77a2481fa2b5c6316b3bf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/1a23659144706a10d0084b906c34a01f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/1a23659144706a10d0084b906c34a01f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/36f66acc659c2cd8cef3c65918eb46de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/36f66acc659c2cd8cef3c65918eb46de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/5ace00848434db0dcd7b8427e72223e4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/5ace00848434db0dcd7b8427e72223e4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/a908830ebbd016ddbb5135132af9e9ec/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/a908830ebbd016ddbb5135132af9e9ec/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/71c49549c3043b124dd7927c8c50ff6c/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/71c49549c3043b124dd7927c8c50ff6c/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7cc86922d1a2715ebfc777f3b086c730/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7cc86922d1a2715ebfc777f3b086c730/AndroidManifest.xml:17:5-42
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/82b704889c86ba1219e8e9657026ae4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/82b704889c86ba1219e8e9657026ae4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7f6d5a30b8bb7dbff5c650ff54ebdee3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7f6d5a30b8bb7dbff5c650ff54ebdee3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/73a024878d0ab28a4af7a5e1a8e7b285/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/73a024878d0ab28a4af7a5e1a8e7b285/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/881d7f2982ee967dac5c087e9b1d7d05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/881d7f2982ee967dac5c087e9b1d7d05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/671958cddca47c244c5f32af84b3eaa3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/671958cddca47c244c5f32af84b3eaa3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/8e98f724dc51337d43edf1c5c471a1d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/8e98f724dc51337d43edf1c5c471a1d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/946a61e6a8308adfe824791b682f0027/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/946a61e6a8308adfe824791b682f0027/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/9172c8a16a31de1415c6e9f491a3a3b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/9172c8a16a31de1415c6e9f491a3a3b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b04fc18c8990849eab39edce72e318f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b04fc18c8990849eab39edce72e318f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/cc817a45aad8bff40fd03440841c9423/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/cc817a45aad8bff40fd03440841c9423/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/ef5e189cb9a0146cedd7bd12dfb91021/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/ef5e189cb9a0146cedd7bd12dfb91021/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2f14d18e98ab88bc7f79cd46a187400a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2f14d18e98ab88bc7f79cd46a187400a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7baff13cb5666ab15444076f0d92cf05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7baff13cb5666ab15444076f0d92cf05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/fa089fd709efcccbaa22a6015570bb08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/fa089fd709efcccbaa22a6015570bb08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2bf26a42736f3465743f6ed3147b977f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2bf26a42736f3465743f6ed3147b977f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/039811fe32c436726efb221ee6c1f12a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/039811fe32c436726efb221ee6c1f12a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/1299dea07690d004e89391147cde5437/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/1299dea07690d004e89391147cde5437/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/8ca45c013475edbd0a0969974c4db5bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/8ca45c013475edbd0a0969974c4db5bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d8d024979b34863aa37e3ee20ab0b018/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d8d024979b34863aa37e3ee20ab0b018/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d7c5087299dae5c47ab069bcfe67e86d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d7c5087299dae5c47ab069bcfe67e86d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/05fb4e47000933059d1a00297a4a4367/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/05fb4e47000933059d1a00297a4a4367/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/20fa1407ab621da230d4f55f65497e92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/20fa1407ab621da230d4f55f65497e92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/ffa34149dcf03faec6734b5b70bc44ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/ffa34149dcf03faec6734b5b70bc44ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/aa6cdacb18813be63d2945b0460b3a8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/aa6cdacb18813be63d2945b0460b3a8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/db4f45da05953ea270447d7c4baa65dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/db4f45da05953ea270447d7c4baa65dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/3cc62e4deeaa5602d495bc5856123fb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/3cc62e4deeaa5602d495bc5856123fb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2ed3abd8c40fc31ab24e366b849f7420/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/2ed3abd8c40fc31ab24e366b849f7420/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d979c5b03c107543a82ee06025f30592/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/d979c5b03c107543a82ee06025f30592/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/4709256cbea5c5703006616fae0b31f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/4709256cbea5c5703006616fae0b31f0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/991ff10b4475ba8039dfcb722d58c3a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/991ff10b4475ba8039dfcb722d58c3a8/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/samerdernaika/Desktop/projects/react/realestate/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/b0731020d94a98a964688e7fd9f7bd67/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/0e36b137451cb6aae317b612957afd6c/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/0e36b137451cb6aae317b612957afd6c/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/0e36b137451cb6aae317b612957afd6c/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/0e36b137451cb6aae317b612957afd6c/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/a908830ebbd016ddbb5135132af9e9ec/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7cc86922d1a2715ebfc777f3b086c730/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/7cc86922d1a2715ebfc777f3b086c730/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/a908830ebbd016ddbb5135132af9e9ec/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/samerdernaika/.gradle/caches/transforms-2/files-2.1/a908830ebbd016ddbb5135132af9e9ec/AndroidManifest.xml:9:13-58

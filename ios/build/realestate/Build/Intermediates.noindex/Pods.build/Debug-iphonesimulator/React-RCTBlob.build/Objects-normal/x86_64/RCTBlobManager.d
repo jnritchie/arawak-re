@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native/Libraries/Blob/RCTBlobManager.mm \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Target\ Support\ Files/React-RCTBlob/React-RCTBlob-prefix.pch \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTBlobManager.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestHandler.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestDelegate.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTNetworking.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTNetworkTask.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-Core/React/RCTWebSocketModule.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/node_modules/react-native/Libraries/Blob/RCTBlobCollector.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/samerdernaika/Desktop/projects/react/realestate/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h

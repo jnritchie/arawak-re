@@ -1,0 +1,7 @@
+[
+  {"icon":"home","title":"Home"},
+  {"icon":"hotel","title":"Room"},
+  {"icon":"building","title":"Building"},
+  {"icon":"image","title":"Land"},
+  {"icon":"houzz","title":"Other"}
+]
